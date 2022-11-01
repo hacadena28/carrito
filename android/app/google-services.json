@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128275831344",
+    "project_id": "carrito-cff05",
+    "storage_bucket": "carrito-cff05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128275831344:android:183c594d09cee97846abf5",
+        "android_client_info": {
+          "package_name": "com.example.carrito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128275831344-3lhvu3rl6i6e9bvlph4ujrhsiknp8lsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUj4Hwrwc5dNJ1LIS4riWHmuZVicsbN48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128275831344-3lhvu3rl6i6e9bvlph4ujrhsiknp8lsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
